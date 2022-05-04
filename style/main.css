@@ -39,7 +39,7 @@ header nav a:hover{
 /*tela inicial*/
 .telainicial{
     font-size: 15px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)), url('/exercicios-HTML/projetoNetflixClone/img/fundo.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)), url('/exercicios-HTML/projetoNetflixClone/desafio_netflix/img/fundo.jpg');
 
     height: 500px;
     background-size:cover;
